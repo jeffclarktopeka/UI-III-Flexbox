@@ -68,13 +68,12 @@ h1, h2, h3, h4, h5 {
 
 body {
 	box-sizing: border-box;
-	border: 1px solid red;
 	margin: 5%;
 }
 
 .header {
 	box-sizing: border-box;
-	border: 1px solid red;
+	border: 1px dotted red;
 	display: flex;
 	justify-content: space-around;
 }
